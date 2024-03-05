@@ -1,0 +1,3 @@
+This analysis notebook is developed for the analysis of the samples obtained when using the spherical harmonic sampler from HYDRA, https://github.com/HydraRadio/HYDRA. 
+
+The results/plots in this specific run are from the 'standard case', which is a small-scale test case used for our analysis. 
